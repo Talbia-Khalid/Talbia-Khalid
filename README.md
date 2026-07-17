@@ -27,9 +27,10 @@
 
 ## 📂 Projects
 
-- 🌐 Blazor Projects
-  **Lost And Found Portal**
-   https://github.com/Talbia-Khalid/Lost-And-Found-Portal
+## 🌐 Blazor Projects
+  - **Lost And Found Portal**
+   (https://github.com/Talbia-Khalid/Lost-And-Found-Portal)
+- 
   
 - 💻 C# Projects
   
