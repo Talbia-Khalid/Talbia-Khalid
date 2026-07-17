@@ -20,7 +20,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,cs,cpp,dotnet,html,css,js,ts,angular,bootstrap&perline=7" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,cs,cpp,dotnet,html,css,js,ts,angular,bootstrap,mysql&perline=7" />
 </p>
 
 ---
