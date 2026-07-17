@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Talbia Khalid 👋
+# Hi, I'm Talbia Khalid. 
 
 ### BSCS Student | Learning Angular | C# & Blazor Developer
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 - BSCS student at Air University
 - Currently learning Angular 19
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,cs,cpp,dotnet,html,css,js,ts,angular,bootstrap,mysql&perline=7" />
@@ -25,19 +25,19 @@
 
 ---
 
-## 📂 Projects
+## Projects
 
-## 🌐 Blazor Projects
+## Blazor Projects
   - **Lost And Found Portal**
    (https://github.com/Talbia-Khalid/Lost-And-Found-Portal)
   
-## 💻 C# Projects
+## C# Projects
 - **Calculator**
 (https://github.com/Talbia-Khalid/Calculator)
 - **Unit Convertor**
   (https://github.com/Talbia-Khalid/Unit-Converter) 
   
-## 🎨 HTML & CSS Projects
+## HTML & CSS Projects
 -**Noir And Bloom**
 (https://github.com/Talbia-Khalid/Noir-Bloom) 
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Talbia-Khalid&show_icons=true&theme=github_dark&hide_border=true" />
@@ -57,7 +57,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Talbia-Khalid&theme=github-dark&hide_border=true" />
@@ -65,7 +65,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 - GitHub: https://github.com/Talbia-Khalid
 - Email : talbiakhalid0@gmail.com
