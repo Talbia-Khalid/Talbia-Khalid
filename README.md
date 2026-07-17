@@ -30,9 +30,12 @@
 ## 🌐 Blazor Projects
   - **Lost And Found Portal**
    (https://github.com/Talbia-Khalid/Lost-And-Found-Portal)
-- 
   
-- 💻 C# Projects
+## 💻 C# Projects
+- **Calculator**
+(https://github.com/Talbia-Khalid/Calculator)
+- **Unit Convertor**
+  (
   
 - ⚙️ C++ Projects
 - 🎨 HTML & CSS Projects
