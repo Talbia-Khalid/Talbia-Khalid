@@ -59,6 +59,7 @@
 ## 📫 Contact
 
 - GitHub: https://github.com/Talbia-Khalid
+- Email : talbiakhalid0@gmail.com
 
 
 ---
